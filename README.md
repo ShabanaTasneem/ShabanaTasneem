@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShabanaTasneem
-- 👀 I’m interested in Python, Machine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in SQL, Tableau, Python, Machine Learning
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me tasneemshabana8@gmail.com
 
